@@ -1,2 +1,27 @@
-# Money_Control_App
-This is an Android App developed on Android Studio. It allows users to (manually) specify what you spent your money on. Given some income (that can be specified as well), it allows you at any time to double-check whether your money is in balance or not. Moreover, maintaining a history of your inputs allows observing how your behavior has changed, which is especially useful to get rid of imbalances. Also, some statistics are shown virtually to the user.
+# Treasure_Trove
+
+
+## INTRODUCTION <br>
+Have you had sleepless nights worrying about your frivolous spending and unbounded expenses. Well you are not alone here. We a group of 4 young developers who share the same feelings. Our worries for our expenses were our biggest motivation in developing this application. Here you get the detailed source code and coding patterns we employed to build our Money Management app Treasure_Trove. You are most welcome to have a look and try our application by simply downloading our apk.
+
+Here are the series of blogs we have written to help you navigate through our software development cycle:
+
+
+
+1. [ABOUT US](https://code.ovgu.de/maslam/treasure_trove/-/wikis/About-our-team)
+2. [BASIC PROTOTYPE](https://code.ovgu.de/maslam/treasure_trove/-/wikis/Basic-Prototype)
+3. [ADVANCED PROTOTYPE](https://code.ovgu.de/maslam/treasure_trove/-/wikis/Advanced-Prototype)
+4. [BETA PROTOTYPE](https://code.ovgu.de/maslam/treasure_trove/-/wikis/Beta-Prototype)
+   
+
+   Please install our application using the below apk file:
+   [TREASURE TROVE APK](https://code.ovgu.de/maslam/treasure_trove/-/wikis/03.-Advanced-Prototype#:~:text=TreasureTrove_v22.apk)
+  
+ 
+
+
+
+
+
+
+
