@@ -1,0 +1,2 @@
+# Money_Control_App
+This is an Android App developed on Android Studio. It allows users to (manually) specify what you spent your money on. Given some income (that can be specified as well), it allows you at any time to double-check whether your money is in balance or not. Moreover, maintaining a history of your inputs allows observing how your behavior has changed, which is especially useful to get rid of imbalances. Also, some statistics are shown virtually to the user.
